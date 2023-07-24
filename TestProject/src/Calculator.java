@@ -4,7 +4,7 @@ public class Calculator {
 	
 	public void add()
 	{
-		System.out.println("sum is"+(n1+n2));
+		System.out.println("mul is"+(n1*n2));
 	}
 public static void main(String []args) {
 		Calculator c=new Calculator();
